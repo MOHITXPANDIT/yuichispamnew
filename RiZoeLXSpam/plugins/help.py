@@ -4,7 +4,7 @@ from time import time
 from datetime import datetime
 
     
-HELP_PIC = https://telegra.ph/file/d93d6aea251fa5a738502.jpg""
+HELP_PIC = "https://telegra.ph/file/d93d6aea251fa5a738502.jpg"
 
 RiZoeLX = "🔥 Cmnds. 🔥\n\n"
  
