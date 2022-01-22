@@ -130,7 +130,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "2135188826 5011805121 ",
             "required": true
         },
         "HEROKU_API_KEY": {
