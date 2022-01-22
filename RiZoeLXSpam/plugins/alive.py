@@ -4,11 +4,11 @@ from telethon import events, version
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/d93d6aea251fa5a738502.jpg"
   
 
           
-rizoel = "✧ 𝑅𝐼𝑍𝑂𝐸𝐿 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
+rizoel = "✧ SPAM BOT IS ALIVE ✧\n\n"
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
@@ -16,15 +16,15 @@ rizoel += f"┣➣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 
 rizoel += f"┣➣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 
-rizoel += f"┣➣ **ʀɪᴢᴏᴇʟXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"┣➣ **ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
     
-rizoel += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/DNHxHELL)\n"
+rizoel += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/NIGHT_FUN_XD)\n"
 
-rizoel += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/RiZoeLX)\n"
+rizoel += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/AB0UTPANDIT)\n"
 
 rizoel += f"┗━━━━━━━━━━━━━━━━━━━\n\n"
 
-rizoel += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/MrRizoel/RiZoeLXSpam) 🖤"            
+rizoel += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/MOHITXPANDIT/yuichispamnew) 🖤"            
                                     
 @Riz.on(events.NewMessage(pattern=r"\.alive"))
 async def alive(event):
